@@ -29,28 +29,12 @@ body {
 	margin-bottom: 40px;
 }
 
+.sister-companies .row {
+	padding: 10px 0;
+}
+
 .sister-companies button {
 	text-align: center;
-}
-
-@media (max-device-width: 812px) {
-	.mobile-only {
-		display: inline;
-	}
-
-	.desktop-only {
-		display: none;
-	}
-}
-
-@media (min-width: 812px) {
-	.mobile-only {
-		display: none;
-	}
-
-	.desktop-only {
-		display: inline;
-	}
 }
 
 .press-release {
