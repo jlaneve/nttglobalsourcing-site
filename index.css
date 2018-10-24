@@ -1,0 +1,83 @@
+body {
+	min-height: 100vh;
+}
+
+.content {
+	flex: 1 1 auto;
+}
+
+.nav-link {
+	margin: auto 15px;
+}
+
+.contact-us {
+	float: right;
+}
+
+.mission-statement {
+	background: white;
+	background-image: url("img/map.png");
+	background-size: auto 100%;
+}
+
+.mission-statement > .container {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.sister-companies {
+	margin-bottom: 40px;
+}
+
+.press-release {
+	float: right;
+}
+
+.right-nav {
+	margin-top: 50px;
+}
+
+.avatar-wrapper {
+	min-height: 100%;
+}
+
+.avatar {
+	width: 60%;
+	height: auto;
+	margin: auto 20%;
+	align-items: center;
+}
+
+.name {
+	font-weight: bolder;
+}
+
+.title {
+	font-weight: normal;
+}
+
+.bio {
+	font-size: 0.8em;
+}
+
+hr.extend {
+	width: 105%;
+	margin-left: -2.5%;
+}
+
+.under-development {
+	vertical-align: middle;
+	color: grey;
+	position: absolute;
+	width: 50%;
+	height: 20%;
+	top: 40%;
+	left: 25%;
+	font-size: 2em;
+	font-weight: bolder;
+}
+
+.gears {
+	height: 120px;
+	color: gray;
+}
